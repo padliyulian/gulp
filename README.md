@@ -25,9 +25,9 @@
 - npm install browser-sync --save-dev
 - npm install -g bower
 - bower init
-- bower install bootstrap4
-- bower install jquery
-- bower install popper.js
+- bower install bootstrap4 --save-dev
+- bower install jquery --save-dev
+- bower install popper.js --save-dev
 - npm install gulp-useref --save-dev
 - npm install gulp-uglify --save-dev
 - npm install gulp-if --save-dev
