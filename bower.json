@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap4-gulp3.9.1-bower",
+  "description": "preset env",
+  "main": "index.html",
+  "authors": [
+    "padli yulian"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
