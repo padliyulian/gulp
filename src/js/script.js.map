@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["hello","console","log"],"mappings":";;AAAA,IAAMA,KAAK,GAAG,SAARA,KAAQ;AAAA,SAAMC,OAAO,CAACC,GAAR,CAAY,oBAAZ,CAAN;AAAA,CAAd;;AACAF,KAAK","file":"script.js","sourcesContent":["const hello = () => console.log('hello padli yulian');\nhello()"]}
